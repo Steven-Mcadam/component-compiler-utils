@@ -1,3 +1,5 @@
+# component-compiler-utils
+component-compiler-utils module that has been updated to work with vue-loader 15
 # @vue/component-compiler-utils [![Build Status](https://circleci.com/gh/vuejs/component-compiler-utils/tree/master.svg?style=shield)](https://circleci.com/gh/vuejs/component-compiler-utils/)
 
 > Lower level utilities for compiling Vue single file components
